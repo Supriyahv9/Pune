@@ -14,6 +14,8 @@ public class Links {
 	public void Links() {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.shoppersstack.com/");
+		WebDriver driver = new ChromeDriver();
+		driver.get("https://www.shoppersstack.com/");
 		List<WebElement> alllinks = driver.findElements(By.tagName("a"));
 		
 		for(int i =0;i<alllinks.size();i++) {
