@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-12T10:45:24 IST" name="Suite" finished-at="2025-03-12T10:45:24 IST" duration-ms="266">
+    <groups>
+    </groups>
+    <test started-at="2025-03-12T10:45:24 IST" name="Test" finished-at="2025-03-12T10:45:24 IST" duration-ms="266">
+      <class name="Practice.Commandline">
+        <test-method signature="getdataFromCommandLineTest(org.testng.xml.XmlTest)[pri:0, instance:Practice.Commandline@6f46426d]" started-at="2025-03-12T10:45:24 IST" name="getdataFromCommandLineTest" finished-at="2025-03-12T10:45:24 IST" duration-ms="46" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.xml.XmlTest@8ada7dab]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdataFromCommandLineTest -->
+      </class> <!-- Practice.Commandline -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
